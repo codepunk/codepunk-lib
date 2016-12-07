@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="material_baseline_grid_size">8dp</dimen>
+    <dimen name="material_iconography_baseline_grid_size">4dp</dimen>
+    <dimen name="material_type_baseline_grid_size">4dp</dimen>
+</resources>
